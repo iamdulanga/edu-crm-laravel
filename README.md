@@ -1,8 +1,8 @@
-# Agape EDU CRM Laravel
+# EDU CRM Laravel
 
 A Customer Relationship Management (CRM) system built with Laravel for educational institutions.
 
-<p align="center">
+<p align="left">
 <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?style=flat&logo=laravel" alt="Laravel Version"></a>
 <a href="https://php.net"><img src="https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat&logo=php" alt="PHP Version"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
@@ -10,7 +10,7 @@ A Customer Relationship Management (CRM) system built with Laravel for education
 
 ## About Agape EDU CRM
 
-Agape EDU CRM is a comprehensive customer relationship management system designed specifically for educational institutions. Built on the Laravel framework, it provides tools to manage student information, track interactions, and streamline administrative processes.
+EDU CRM is a comprehensive customer relationship management system designed specifically for educational institutions. Built on the Laravel framework, it provides tools to manage student information, track interactions, and streamline administrative processes.
 
 ## Features
 
@@ -32,8 +32,8 @@ Agape EDU CRM is a comprehensive customer relationship management system designe
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/iamdulanga/agape-edu-crm-laravel.git
-cd agape-edu-crm-laravel
+git clone https://github.com/iamdulanga/edu-crm-laravel.git
+cd edu-crm-laravel
 ````
 
 2. Install PHP dependencies:
@@ -82,7 +82,7 @@ npm run build
 > If you see this error when running the above command:
 >
 > ```bash
-> PS C:\Users\dilan\Desktop\agape-edu-crm-laravel> npm run build
+> PS C:\Users\dilan\Desktop\edu-crm-laravel> npm run build
 > npm : File C:\Program Files\nodejs\npm.ps1 cannot be loaded because running scripts is disabled on this system.
 > For more information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
 > At line:1 char:1
